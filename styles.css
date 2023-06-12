@@ -75,3 +75,11 @@ strong {
     width: 100%;
   }
 }
+#principio img{
+  display:flex;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  max-width: 150px;
+  height: 64.5px;
+}
